@@ -1,4 +1,4 @@
-package automationCoursesEpam.aggregation7;
+package EpamJavaCourse.aggregation7;
 
 import java.math.BigDecimal;
 import java.util.Objects;

@@ -1,4 +1,4 @@
-package automationCoursesEpam.study.hotels;
+package EpamJavaCourse.study.hotels;
 
 public class Room extends AbstractRoom {
 

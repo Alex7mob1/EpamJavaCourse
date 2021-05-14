@@ -1,4 +1,4 @@
-package automationCoursesEpam.arrays3;
+package EpamJavaCourse.arrays3;
 
 public class Task3 {
     public static void main(String[] args) {

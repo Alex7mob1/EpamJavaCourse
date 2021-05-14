@@ -1,9 +1,6 @@
-package automationCoursesEpam.aggregation7;
-
-import automationCoursesEpam.inheritance6.SalesPerson;
+package EpamJavaCourse.aggregation7;
 
 import java.math.BigDecimal;
-import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package automationCoursesEpam.introductionOOP5;
+package EpamJavaCourse.introductionOOP5;
 
 public class Rectangle {
 

@@ -1,4 +1,4 @@
-package automationCoursesEpam.loopStatement2;
+package EpamJavaCourse.loopStatement2;
 
 public class Task1 {
 

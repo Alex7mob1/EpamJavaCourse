@@ -1,4 +1,4 @@
-package automationCoursesEpam.inheritance6;
+package EpamJavaCourse.inheritance6;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package automationCoursesEpam.study;
+package EpamJavaCourse.study;
 
 public class Circle extends AbstractFigure {
 

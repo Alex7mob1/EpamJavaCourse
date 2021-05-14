@@ -1,4 +1,4 @@
-package automationCoursesEpam.aggregation7;
+package EpamJavaCourse.aggregation7;
 
 public interface Prolongable {
 

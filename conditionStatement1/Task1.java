@@ -1,4 +1,4 @@
-package automationCoursesEpam.conditionStatement1;
+package EpamJavaCourse.conditionStatement1;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package automationCoursesEpam.study;
+package EpamJavaCourse.study;
 
 public abstract class AbstractFigure {
     public abstract double perimeter();

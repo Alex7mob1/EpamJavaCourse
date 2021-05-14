@@ -1,4 +1,4 @@
-package automationCoursesEpam.function4;
+package EpamJavaCourse.function4;
 
 public class Task1 {
 

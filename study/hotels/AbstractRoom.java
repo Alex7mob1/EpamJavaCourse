@@ -1,4 +1,4 @@
-package automationCoursesEpam.study.hotels;
+package EpamJavaCourse.study.hotels;
 
 public abstract class AbstractRoom {
     private double square;

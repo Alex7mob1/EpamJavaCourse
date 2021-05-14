@@ -1,4 +1,4 @@
-package automationCoursesEpam.study.hotels;
+package EpamJavaCourse.study.hotels;
 
 public class HotelRooms {
     public static void printSquareRooms(HotelRoom[] rooms) {
