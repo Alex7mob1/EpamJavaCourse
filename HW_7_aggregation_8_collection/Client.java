@@ -1,7 +1,6 @@
 package EpamJavaCourse.HW_7_aggregation_8_collection;
 
 import java.math.BigDecimal;
-import java.util.ConcurrentModificationException;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
@@ -105,16 +104,14 @@ public class Client implements Iterable<Deposit> {
         }
 
         public boolean hasNext() {
-            return cursor != size;
+            return cursor < size;
         }
 
         public Deposit next() {
             int i = cursor;
-            if (i >= size)
-                throw new NoSuchElementException();
             Deposit[] elementData = Client.this.deposits;
             if (i >= elementData.length)
-                throw new ConcurrentModificationException();
+                throw new NoSuchElementException();
             cursor = i + 1;
             lastRet = i;
             return elementData[lastRet];

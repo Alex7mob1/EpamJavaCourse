@@ -23,8 +23,13 @@ public class Main {
         System.out.println("******************************");
 
         Client client = new Client();
+        client.addDeposit(person1);
+        System.out.println(client.iterator().next());
+        System.out.println("******************************");
 
-        //System.out.println(client.iterator().next());
+        System.out.println(client.iterator().hasNext());
+
+        System.out.println(client.iterator().next());
         System.out.println("******************************");
 
         System.out.println(client.iterator().hasNext());
